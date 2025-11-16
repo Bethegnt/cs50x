@@ -2935,7 +2935,6 @@ You've just covered the fundamental building blocks of programming. Every comple
 These aren't just programming concepts; they're problem-solving tools that train your brain to think logically and systematically.
 
 **Week 1 is tough because it's teaching you a completely new way of thinking.** But you're doing it! Every error message you encounter, every bug you fix, and every concept you grasp makes you a better programmer.
-
 **The CS50 journey is like climbing a mountain.** Week 1 is learning to walk with proper hiking boots. It feels awkward at first, but soon you'll be running up trails, and eventually scaling peaks you never thought possible.
 
 **Keep coding. Keep debugging. Keep learning.**
